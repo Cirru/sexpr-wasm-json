@@ -1,0 +1,17 @@
+{
+  "name": "sexpr-wasm-json",
+  "version": "0.0.1",
+  "description": "WebAssembly S-Expression JSON kits",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "cirru-script test/*.cirru"
+  },
+  "keywords": [
+    "wasm"
+  ],
+  "author": "jiyinyiyong",
+  "license": "MIT"
+}
