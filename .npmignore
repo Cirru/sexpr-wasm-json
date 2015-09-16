@@ -1,3 +1,7 @@
 
 /src
 /test
+/gulpfile.cirru
+/webpack.config.cirru
+/debugger.html
+/build

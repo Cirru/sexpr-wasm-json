@@ -2,15 +2,6 @@
 WebAssembly S-Expression JSON kits
 ----
 
-WIP...
-
-* design reader `<-- currently`
-* implement reader
-* test reader
-* design writer
-* implement writer
-* test writer
-
 ### Usage
 
 ```

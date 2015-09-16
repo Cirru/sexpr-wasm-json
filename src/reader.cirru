@@ -4,7 +4,7 @@ var
   Immutable $ require :immutable
 
 var
-  ({}~ fromJS List Map) Immutable
+  ({}~ fromJS List) Immutable
 
 var
   openParen ":("
