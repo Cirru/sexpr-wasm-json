@@ -13,5 +13,14 @@
     "wasm"
   ],
   "author": "jiyinyiyong",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "cirru-script": "^0.2.3",
+    "cirru-script-loader": "^0.1.0",
+    "raw-loader": "^0.5.1",
+    "webpack": "^1.12.1"
+  },
+  "dependencies": {
+    "immutable": "^3.7.5"
+  }
 }
