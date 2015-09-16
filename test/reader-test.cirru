@@ -1,6 +1,7 @@
 
 var
   reader $ require :../src/reader
-  code $ require :./wasm/test.wasm
+  code $ require :./wasm/simple.wasm
 
-console.log $ reader.read code
+var result $ reader.read code
+console.log (result.toJS)
